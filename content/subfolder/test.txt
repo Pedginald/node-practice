@@ -1,1 +1,1 @@
-test text
+'Hello, this is the second text file'
