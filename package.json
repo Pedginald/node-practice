@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This repository is set up to reiterate over the principles and practice using Node.js and Express.js.",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pedginald/node-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pedginald/node-practice/issues"
+  },
+  "homepage": "https://github.com/Pedginald/node-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
