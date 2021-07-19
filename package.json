@@ -19,5 +19,8 @@
   "homepage": "https://github.com/Pedginald/node-practice#readme",
   "dependencies": {
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
